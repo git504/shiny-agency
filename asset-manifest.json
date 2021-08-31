@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/shiny-agency/static/js/main.4f278fb2.chunk.js",
+    "main.js.map": "/shiny-agency/static/js/main.4f278fb2.chunk.js.map",
+    "runtime-main.js": "/shiny-agency/static/js/runtime-main.93111cfd.js",
+    "runtime-main.js.map": "/shiny-agency/static/js/runtime-main.93111cfd.js.map",
+    "static/js/2.df29d0e6.chunk.js": "/shiny-agency/static/js/2.df29d0e6.chunk.js",
+    "static/js/2.df29d0e6.chunk.js.map": "/shiny-agency/static/js/2.df29d0e6.chunk.js.map",
+    "index.html": "/shiny-agency/index.html",
+    "static/js/2.df29d0e6.chunk.js.LICENSE.txt": "/shiny-agency/static/js/2.df29d0e6.chunk.js.LICENSE.txt",
+    "static/media/404.fc9ddee4.svg": "/shiny-agency/static/media/404.fc9ddee4.svg",
+    "static/media/empty.4f54a7d6.svg": "/shiny-agency/static/media/empty.4f54a7d6.svg",
+    "static/media/home-illustration.3c3e6fa7.svg": "/shiny-agency/static/media/home-illustration.3c3e6fa7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93111cfd.js",
+    "static/js/2.df29d0e6.chunk.js",
+    "static/js/main.4f278fb2.chunk.js"
+  ]
+}
